@@ -12,7 +12,12 @@ Vous trouverez ci-dessous les réponses dans l'ordre des questions.
 - cf contenu du repo
 
 ## Question N°3 - Temps passé à l'implémentation
+ - 10 min à l'écriture du README et à l'initialisation du dépôt Git.
+ - 20 min pour la déduction du fonctionnement de la fonction,
+ - 20 min pour l'architecture,
+ - 30 min à l'écriture de la fonction, 
 
+Soit un total de **1h20**.
 
 ## Remarques
 - Il aurait été également possible de créer une class ***Interval()*** pour chaque argument du tableau disposant d'un
